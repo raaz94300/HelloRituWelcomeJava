@@ -1,1 +1,2 @@
 This is the origin master of the push mastter.
+i am going to do some changes here for git  heckeout command.
